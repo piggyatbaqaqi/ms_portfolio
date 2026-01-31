@@ -7,19 +7,19 @@ Syracuse University School of Information Studies
 
 ## Table of Contents
 
-1. [Introduction: Purpose and Motivation](#1-introduction-purpose-and-motivation)
-2. [Program Learning Goals](#2-program-learning-goals)
+1. [Introduction: Purpose and Motivation](#introduction-purpose-and-motivation)
+2. [Program Learning Goals](#program-learning-goals)
    - [Goal 1: Data Collection, Storage, and Access](#goal-1-collect-store-and-access-data)
    - [Goal 2: Actionable Insight](#goal-2-create-actionable-insight)
    - [Goal 3: Visualization and Predictive Models](#goal-3-apply-visualization-and-predictive-models)
    - [Goal 4: Programming Languages](#goal-4-use-programming-languages)
    - [Goal 5: Communication](#goal-5-communicate-insights)
    - [Goal 6: Ethics](#goal-6-apply-ethics)
-3. [Synthesis: Integrated Learning Through SKOL](#3-synthesis-integrated-learning-through-skol)
-4. [Strengths and Challenges](#4-strengths-and-challenges)
-5. [Lifelong Learning Plan](#5-lifelong-learning-plan)
-6. [References](#6-references)
-7. [Appendices](#7-appendices)
+3. [Synthesis: Integrated Learning Through SKOL](#synthesis-integrated-learning-through-skol)
+4. [Strengths and Challenges](#strengths-and-challenges)
+5. [Lifelong Learning Plan](#lifelong-learning-plan)
+6. [References](#references)
+7. [Appendices](#appendices)
 
 ---
 
@@ -600,41 +600,41 @@ Khan, H.K. (2023). A Step-by-Step Guide to Fine-Tuning the Mistral 7B LLM. *E2E 
 
 ```
 Portfolio/
-├── 01_Overview/
-│   ├── overview.pdf           # This document converted to PDF
-│   └── resume.pdf             # Current professional resume
-│
-├── 02_IST664_NLP/
-│   ├── README.txt             # Software requirements, how to review
-│   ├── IST664_Team3_Balasi_Murphy_Osuga_Yarroll.pdf
-│   └── SKOL_presentation3.pptx
-│
-├── 03_IST736_Text_Mining/
-│   ├── README.txt
-│   ├── IST736_Balasi_Yarroll_Final_Project.pdf
-│   └── glycemic_increment.ipynb
-│
-├── 04_IST691_Deep_Learning/
-│   ├── README.txt
-│   ├── IST691_final_project_paper.pdf
-│   └── mistral_transfer_learning.ipynb
-│
-├── 05_IST718_Big_Data/
-│   ├── README.txt
-│   ├── IST718_Final_Report_FINAL.docx
-│   └── IST_718_Final_Project_Classifier.ipynb
-│
-├── 06_IST769_Data_Management/
-│   ├── README.txt
-│   ├── IST769_Final_Project_Proposal.pdf
-│   └── ist769_skol.ipynb
-│
-├── 07_IST690_Independent_Study/
-│   ├── README.txt
-│   └── IST_690_SKOL_Website.pdf
-│
-└── 08_Video_Presentation/
-    └── portfolio_presentation.mp4  # 10-minute summary
+|-- 01_Overview/
+|   |-- overview.pdf           # This document converted to PDF
+|   |-- resume.pdf             # Current professional resume
+|
+|-- 02_IST664_NLP/
+|   |-- README.txt             # Software requirements, how to review
+|   |-- IST664_Team3_Balasi_Murphy_Osuga_Yarroll.pdf
+|   |-- SKOL_presentation3.pptx
+|
+|-- 03_IST736_Text_Mining/
+|   |-- README.txt
+|   |-- IST736_Balasi_Yarroll_Final_Project.pdf
+|   |-- glycemic_increment.ipynb
+|
+|-- 04_IST691_Deep_Learning/
+|   |-- README.txt
+|   |-- IST691_final_project_paper.pdf
+|   |-- mistral_transfer_learning.ipynb
+|
+|-- 05_IST718_Big_Data/
+|   |-- README.txt
+|   |-- IST718_Final_Report_FINAL.docx
+|   |-- IST_718_Final_Project_Classifier.ipynb
+|
+|-- 06_IST769_Data_Management/
+|   |-- README.txt
+|   |-- IST769_Final_Project_Proposal.pdf
+|   |-- ist769_skol.ipynb
+|
+|-- 07_IST690_Independent_Study/
+|   |-- README.txt
+|   |-- IST_690_SKOL_Website.pdf
+|
+|-- 08_Video_Presentation/
+    |-- portfolio_presentation.mp4  # 10-minute summary
 ```
 
 ### Software Requirements for Reviewing Deliverables

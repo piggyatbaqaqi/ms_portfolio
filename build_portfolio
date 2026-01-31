@@ -1,0 +1,2 @@
+#!/bin/bash
+pandoc -o portfolio.pdf portfolio.md
