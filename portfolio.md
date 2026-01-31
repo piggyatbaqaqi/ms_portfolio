@@ -53,14 +53,14 @@ Mycological taxonomy literature spans centuries of scientific publications acros
 
 The following courses each contributed essential capabilities to SKOL:
 
-| Course | Contribution to SKOL |
-|--------|---------------------|
-| IST664 (Natural Language Processing) | SBERT embeddings, semantic search, Taxon class design |
-| IST718 (Big Data Analytics) | PySpark classification pipeline, scalable processing |
-| IST736 (Text Mining) | Novel Glycemic Increment metric for personalized diabetic nutrition |
-| IST769 (Advanced Big Data Management) | CouchDB document store, Redis caching, data pipelines |
-| IST691 (Deep Learning) | LLM fine-tuning for feature extraction |
-| IST690 (Independent Study) | Django/React website deployment |
+| Course | Contribution        | SKOL Related |
+|--------|---------------------|--------------|
+| IST664 (Natural Language Processing) | SBERT embeddings, semantic search, Taxon class design | * |
+| IST718 (Big Data Analytics) | PySpark classification pipeline, scalable processing | * |
+| IST736 (Text Mining) | Novel Glycemic Increment metric for personalized diabetic nutrition |   |
+| IST769 (Advanced Big Data Management) | CouchDB document store, Redis caching, data pipelines | * |
+| IST691 (Deep Learning) | LLM fine-tuning for feature extraction | * |
+| IST690 (Independent Study) | Django/React website deployment | * |
 
 ---
 
